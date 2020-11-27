@@ -1,8 +1,8 @@
 # Supplementary data
-## "Histone tails actively participate in nucleosomal DNA unwrapping and sliding: insights from 10 microsecond atomistic MD simulations" by Armeev et al.
+## "Fine details of histone dynamics modulate DNA unwrapping and twisting in nucleosomes: insights from multi-microsecond molecular dynamics simulations" by Armeev et al.
 
 ### GitHub repository
-[https://github.com/intbio/nucl_MD_10mus](https://github.com/intbio/nucl_MD_10mus)
+[https://github.com/intbio/Armeev_et_al_2021](https://github.com/intbio/Armeev_et_al_2021)
 
 ### Interactive preview of MD trajectories
 - [NCP<sub>147</sub> - 147 bp pseudosymmetric α-satellite DNA, full length histone tails in symmetric starting positions (PDB ID 1KX5)](NCP147_trj_preview)
