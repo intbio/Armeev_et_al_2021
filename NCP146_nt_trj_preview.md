@@ -68,9 +68,12 @@
         ["red", "_O"],
         ["grey", "*"]
       ], "DA");
-      var residues = NGL.ColormakerRegistry.addSelectionScheme([
-        ["blue", "ARG"],
-        ["green", "HIS or TIR"],
+     var residues = NGL.ColormakerRegistry.addSelectionScheme([
+        ["blue", "40 and ARG"],
+	["lightcyan", "42 and ARG"],
+	["cyan", "49 and ARG"],
+        ["green", "41 and TYR"],
+	["pink", "39 and HIS"],
         ["white", "*"]
       ], "protein");
       
