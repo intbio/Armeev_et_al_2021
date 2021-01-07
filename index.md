@@ -6,9 +6,9 @@
 
 ### Interactive preview of MD trajectories
 - [NCP<sub>147</sub> - 147 bp pseudosymmetric α-satellite DNA, full length histone tails in symmetric starting positions (PDB ID 1KX5)](NCP147_trj_preview)
-- [NCP<sup><i>tt</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but with truncated histone tails (PDB ID 1KX5)](NCP147_nt_trj_preview)
-- [NCP<sup><i>tt</i></sup><sub>146</sub> - 146 bp α-satellite DNA sequence, truncated histone tails (PDB ID 1AOI)](NCP146_nt_trj_preview)
-- [NCP<sup><i>tt</i></sup><sub>145</sub> - 145  bp  Widom  601  DNA  sequence,  truncated  histone tails (PDB ID 3LZ0)](NCP145_nt_trj_preview)
+- [NCP<sup><i>tt</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but with truncated histone tails (PDB ID 1KX5)](NCP147_tt_trj_preview)
+- [NCP<sup><i>tt</i></sup><sub>146</sub> - 146 bp α-satellite DNA sequence, truncated histone tails (PDB ID 1AOI)](NCP146_tt_trj_preview)
+- [NCP<sup><i>tt</i></sup><sub>145</sub> - 145  bp  Widom  601  DNA  sequence,  truncated  histone tails (PDB ID 3LZ0)](NCP145_tt_trj_preview)
 - [NCP<sup><i>fixed</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but Cα-atoms of histone folds were restrained in motion (PDB ID 1KX5)](NCP147_fixed_trj_preview)
 
 
