@@ -1,4 +1,4 @@
-### NCP<sup><i>nt</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but with truncated histone tails (PDB ID 1KX5)
+### NCP<sup><i>tt</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but with truncated histone tails (PDB ID 1KX5)
 [Back](https://intbio.github.io/Armeev_et_al_2021)
 
 <html lang="en">
