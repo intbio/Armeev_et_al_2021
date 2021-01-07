@@ -1,5 +1,5 @@
 ### NCP<sup><i>nt</i></sup><sub>145</sub> - 145  bp  Widom  601  DNA  sequence,  truncated  histone tails (PDB ID 3LZ0)
-[Back](https://intbio.github.io/nucl_MD_10mus)
+[Back](https://intbio.github.io/Armeev_et_al_2021)
 
 <html lang="en">
   <head>
