@@ -1,5 +1,5 @@
 ### NCP<sup><i>fixed</i></sup><sub>147</sub> - same as NCP<sub>147</sub>, but Cα-atoms of histone folds were restrained in motion (PDB ID 1KX5)
-[Back](https://intbio.github.io/nucl_MD_10mus)
+[Back](https://intbio.github.io/Armeev_et_al_2021)
 
 <html lang="en">
   <head>
