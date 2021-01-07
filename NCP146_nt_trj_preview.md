@@ -1,5 +1,5 @@
 ### NCP<sup><i>nt</i></sup><sub>146</sub> - 146 bp α-satellite DNA sequence, truncated histone tails (PDB ID 1AOI)
-[Back](https://intbio.github.io/nucl_MD_10mus)
+[Back](https://intbio.github.io/Armeev_et_al_2021)
 
 <html lang="en">
   <head>
