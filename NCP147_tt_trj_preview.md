@@ -86,6 +86,7 @@
       window.axes.autoView();
       window.axes.setVisibility(false);
       stage.animationControls.rotate([ 0, 1, 0, 0 ],0);
+	  stage.setParameters({cameraType: "orthographic"});
 
       
 
@@ -492,7 +493,7 @@
     <p style="color:#CE0000;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">H2B</p>
     <p style="color:#808080;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">DNA</p>
     <br>
-    <input class="form-check-input " type="checkbox" name="ref_str_check" value="" id="ref_str_check">
+    <input class="form-check-input " type="checkbox" name="ortho_check" value="" id="ortho_check" checked="true">
     <label class="form-check-label " for="ref_str_check">
       Show starting state
     </label>
