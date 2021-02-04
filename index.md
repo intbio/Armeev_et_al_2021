@@ -23,3 +23,5 @@
 ### Protocols
 - [Production run MDP-file for Gromacs](MD_production_protocol.mdp)
 
+### [Analysis scripts and algorithms](analysis_scripts_examples)
+
