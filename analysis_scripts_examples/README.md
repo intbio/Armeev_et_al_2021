@@ -11,7 +11,8 @@ This python script use snapshots from MD trajectories to connect nucleosomes wit
 [fiber_generation_and_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_generation_and_analysis.ipynb)
 
 ## Installation
-Jupyter notebook interactive environment with appropriate python version 3.7 kernel is required. 
+Software environment was tested on Ubuntu server 18.04.
+Jupyter notebook interactive environment with appropriate python version 3.7 kernel is required.
 Please refer to installation instructions here https://jupyter.org/install (we suggest using conda).
 The list of required python libraries is provided below. 
 To use the DNA geometry and unwrapping analysis functionality [3DNA](https://x3dna.org/) should also be installed and callable from the python interpreter.
