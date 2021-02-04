@@ -13,7 +13,7 @@ This python script use snapshots from MD trajectories to connect nucleosomes wit
 
 To perform sample analysis please open and run the following jupyter notebook (expected run time - 5 minutes), expected output is already present in the notebook.
 
-[fiber_generation_and_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_generation_and_analysis.ipynb)
+[fiber_generation_with_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_generation_with_analysis.ipynb)
 
 ## Installation
 Software environment was tested on Ubuntu server 18.04.
