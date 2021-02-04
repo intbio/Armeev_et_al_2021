@@ -9,9 +9,9 @@ Filtered trajectories are available [here](trj)
 Full trajectories are available per request.
 
 ## Analysis scripts
-[Trajectory analysis pipeline example](analysis_scripts_examples/pynucl_analysis.ipynb)
+[Trajectory analysis pipeline example](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/pynucl_analysis.ipynb)
 
-[Fiber analysis pipeline example](analysis_scripts_examples/fiber_analysis.ipynb)
+[Fiber analysis pipeline example](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_analysis.ipynb)
 
 ## Installation
 Our analysis pipelines require python version 3.7 and Jupyter notebooks
