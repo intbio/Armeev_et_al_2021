@@ -6,7 +6,6 @@ Please, use the interactive web site rendered through GitHub pages from this rep
 ## Trajectories availability
 Filtered trajectories are available [here](trj)
 
-Full trajectories are available per request.
 
 ## Analysis scripts
 [Trajectory analysis pipeline example](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/pynucl_analysis.ipynb)
