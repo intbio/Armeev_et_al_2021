@@ -4,10 +4,15 @@
 Custom analysis scripts and pipelines were written in Python 3 using MDAnalysis (coordinate manipulation, 3D alignment), and 3DNA (determination of DNA base pair centers, calculation of base pair and base pair step parameters)
 The following Jupyter notebook file provides an example of key analysis procedures used in our study. Please refer to the installation instructions below to set up a working python environment.
 
+To perform sample analysis please open and run the following jupyter notebook (expected run time - 10 minutes), expected output is already present in the notebook.
+
 [trajectory_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/trajectory_analysis.ipynb)
 
 ## Nucleosome fiber generation and analysis algorithms
 This python script use snapshots from MD trajectories to connect nucleosomes with straight B-DNA linkers.
+
+To perform sample analysis please open and run the following jupyter notebook (expected run time - 5 minutes), expected output is already present in the notebook.
+
 [fiber_generation_and_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_generation_and_analysis.ipynb)
 
 ## Installation
@@ -34,3 +39,6 @@ To use the DNA geometry and unwrapping analysis functionality [3DNA](https://x3d
 * [pymolint](https://github.com/intbio/pymolint)
 * [pytexshade](https://github.com/intbio/pytexshade)
 * [pynamod](https://github.com/intbio/pynamod) (required for fiber generation and analysis)
+
+##### Install time
+Around 30 minutes
