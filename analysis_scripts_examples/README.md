@@ -6,14 +6,14 @@ The following Jupyter notebook file provides an example of key analysis procedur
 
 To perform sample analysis please open and run the following jupyter notebook (expected run time - 10 minutes), expected output is already present in the notebook.
 
-[trajectory_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/trajectory_analysis.ipynb)
+[trajectory_analysis.ipynb](html/trajectory_analysis.html)
 
 ## Nucleosome fiber generation and analysis algorithms
 This python script use snapshots from MD trajectories to connect nucleosomes with straight B-DNA linkers.
 
 To perform sample analysis please open and run the following jupyter notebook (expected run time - 5 minutes), expected output is already present in the notebook.
 
-[fiber_generation_with_analysis.ipynb](https://nbviewer.jupyter.org/github/intbio/Armeev_et_al_2021/blob/main/analysis_scripts_examples/fiber_generation_with_analysis.ipynb)
+[fiber_generation_with_analysis.ipynb](html/fiber_generation_with_analysis.html)
 
 ## Installation
 Software environment was tested on Ubuntu server 18.04.
