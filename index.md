@@ -1,5 +1,5 @@
 # Supplementary data
-## "Histone dynamics mediate DNA unwrapping and sliding in nucleosomes" by Armeev et al.
+## "Histone dynamics mediate DNA unwrapping and sliding in nucleosomes"
 [G.A. Armeev, A.S. Kniazeva, G.A. Komarova, M.P. Kirpichnikov, A.K. Shaytan. Nature Communications, 2021.](https://www.nature.com/articles/s41467-021-22636-9)
 
 ### GitHub repository
